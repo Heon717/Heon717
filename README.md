@@ -27,6 +27,6 @@
 <h3 align="center"> 👨‍💼 SeongHeon
   <p align="center">
   </br>
-    <a href="mailto:fiia2001@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=fiia2001@naver.com"/></a>
+    <a href="mailto:fiia2001@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white&link=fiia2001@naver.com"/></a>
   </p>
 </h3>
